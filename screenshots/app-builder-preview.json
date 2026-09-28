@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "The Gardener",
+      "hasCanvas": false,
+      "bodyTextLen": 797,
+      "bodyTextHash": "967910fbe71851ada38153cc1ea551b5f673b8af9de20b179a853156cf8a3522",
+      "bodyTextPrefix": "THE GARDENER COMMANDER DECK TENDER NEW NEW COMMANDER DECK What d",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "The Gardener",
+      "hasCanvas": false,
+      "bodyTextLen": 797,
+      "bodyTextHash": "967910fbe71851ada38153cc1ea551b5f673b8af9de20b179a853156cf8a3522",
+      "bodyTextPrefix": "THE GARDENER COMMANDER DECK TENDER NEW NEW COMMANDER DECK What d",
+      "horizontalOverflow": true,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
